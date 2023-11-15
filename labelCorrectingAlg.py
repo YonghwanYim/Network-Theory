@@ -1,7 +1,7 @@
 """
 * Author : Yonghwan Yim
 * Title : Label Correcting Algorithm using FIFO queue and Dequeue
-* subject : IE535 network theory and applications
+* Subject : IE535 network theory and applications
 """
 
 from collections import deque
